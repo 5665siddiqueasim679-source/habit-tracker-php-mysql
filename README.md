@@ -315,4 +315,6 @@ https://github.com/5665siddiqueasim679-source
 
 ## License
 
-This project is available for educational and portfolio purposes.
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for the full license text.

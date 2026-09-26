@@ -1,0 +1,16 @@
+# Local database configuration
+db.php
+
+# XAMPP / local files
+*.log
+
+# Environment / secret files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/

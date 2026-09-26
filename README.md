@@ -257,7 +257,7 @@ Analytics / Calendar
 Reminders / Export
 ```
 
-```markdown
+
 ## Screenshots
 
 ### Login

@@ -257,20 +257,28 @@ Analytics / Calendar
 Reminders / Export
 ```
 
+```markdown
 ## Screenshots
 
-Screenshots can be added here to demonstrate the application's interface.
+### Login
 
-Example:
+![Login Page](screenshots/login.png)
 
-```text
-screenshots/
-├── login.png
-├── dashboard.png
-├── habits.png
-├── analytics.png
-└── calendar.png
-```
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Habits
+
+![Habits Page](screenshots/habits.png)
+
+### Analytics
+
+![Analytics Page](screenshots/analytics.png)
+
+### Calendar
+
+![Calendar Page](screenshots/calendar.png)
 
 ## Future Improvements
 
